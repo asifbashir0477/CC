@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\MidLab\MidLab\bin\Debug\net8.0\MidLab.exe
+C:\Users\DELL\source\repos\MidLab\MidLab\bin\Debug\net8.0\MidLab.deps.json
+C:\Users\DELL\source\repos\MidLab\MidLab\bin\Debug\net8.0\MidLab.runtimeconfig.json
+C:\Users\DELL\source\repos\MidLab\MidLab\bin\Debug\net8.0\MidLab.dll
+C:\Users\DELL\source\repos\MidLab\MidLab\bin\Debug\net8.0\MidLab.pdb
+C:\Users\DELL\source\repos\MidLab\MidLab\obj\Debug\net8.0\MidLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\MidLab\MidLab\obj\Debug\net8.0\MidLab.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\MidLab\MidLab\obj\Debug\net8.0\MidLab.AssemblyInfo.cs
+C:\Users\DELL\source\repos\MidLab\MidLab\obj\Debug\net8.0\MidLab.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MidLab\MidLab\obj\Debug\net8.0\MidLab.dll
+C:\Users\DELL\source\repos\MidLab\MidLab\obj\Debug\net8.0\refint\MidLab.dll
+C:\Users\DELL\source\repos\MidLab\MidLab\obj\Debug\net8.0\MidLab.pdb
+C:\Users\DELL\source\repos\MidLab\MidLab\obj\Debug\net8.0\MidLab.genruntimeconfig.cache
+C:\Users\DELL\source\repos\MidLab\MidLab\obj\Debug\net8.0\ref\MidLab.dll

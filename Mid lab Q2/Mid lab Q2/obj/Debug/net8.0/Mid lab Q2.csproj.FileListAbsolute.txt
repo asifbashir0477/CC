@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Mid lab Q2\Mid lab Q2\bin\Debug\net8.0\Mid lab Q2.exe
+C:\Users\DELL\source\repos\Mid lab Q2\Mid lab Q2\bin\Debug\net8.0\Mid lab Q2.deps.json
+C:\Users\DELL\source\repos\Mid lab Q2\Mid lab Q2\bin\Debug\net8.0\Mid lab Q2.runtimeconfig.json
+C:\Users\DELL\source\repos\Mid lab Q2\Mid lab Q2\bin\Debug\net8.0\Mid lab Q2.dll
+C:\Users\DELL\source\repos\Mid lab Q2\Mid lab Q2\bin\Debug\net8.0\Mid lab Q2.pdb
+C:\Users\DELL\source\repos\Mid lab Q2\Mid lab Q2\obj\Debug\net8.0\Mid lab Q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Mid lab Q2\Mid lab Q2\obj\Debug\net8.0\Mid lab Q2.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Mid lab Q2\Mid lab Q2\obj\Debug\net8.0\Mid lab Q2.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Mid lab Q2\Mid lab Q2\obj\Debug\net8.0\Mid lab Q2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Mid lab Q2\Mid lab Q2\obj\Debug\net8.0\Mid lab Q2.dll
+C:\Users\DELL\source\repos\Mid lab Q2\Mid lab Q2\obj\Debug\net8.0\refint\Mid lab Q2.dll
+C:\Users\DELL\source\repos\Mid lab Q2\Mid lab Q2\obj\Debug\net8.0\Mid lab Q2.pdb
+C:\Users\DELL\source\repos\Mid lab Q2\Mid lab Q2\obj\Debug\net8.0\Mid lab Q2.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Mid lab Q2\Mid lab Q2\obj\Debug\net8.0\ref\Mid lab Q2.dll
